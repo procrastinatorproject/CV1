@@ -255,12 +255,12 @@ body{
 /*Media Querries*/
 @media screen and (max-width:823px){
     .right-title::after{
-        width: 40%;
+        width: 30%;
     }
 }
 @media screen and (max-width:681px){
     .right-title::after{
-        width: 30%;
+        width: 20%;
     }
 }
 @media screen and (max-width:780px){
