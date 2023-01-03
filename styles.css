@@ -197,7 +197,7 @@ body{
 .right-title::after{
     content: "";
     position: absolute;
-    width: 60%;
+    width: 50%; 
     height: .2rem;
     background-color: #ccc;
     border-radius: 12px;
