@@ -293,7 +293,10 @@ body{
     .name{
         font-size: 1.5rem;
     }
-    .right-title::after{
-        width: 5%;
-    }
+    
+}
+@media screen and (max-width:660px){
+.right-title::after{
+    width: 0%;
+}
 }
