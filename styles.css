@@ -13,13 +13,13 @@
     --progress-bar-color: rgb(243, 154, 154);
     --progress-bar-color-progress: rgb(250, 1, 1);
     --skill-title-color: rgb(255, 255, 255);
-    --right-titles:rgb(0, 0, 0);
+    --right-titles: rgb(0, 0, 0);
     --right-titles-after: rgb(255, 0, 0);
     --para-text: rgb(41, 34, 35);
-    --tl-title1:rgb(255, 0, 0);
-    --tl-title2:rgb(255, 0, 0);
-    
-    --point:red;
+    --tl-title1: rgb(255, 0, 0);
+    --tl-title2: rgb(255, 0, 0);
+
+    --point: red;
     --line: red;
 }
 
