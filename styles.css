@@ -1,19 +1,19 @@
 :root {
-    /* background-color:  */
+    /*---------------------------------- background-color----------------------------------*/
     --left-section: rgb(10, 10, 10);
     --body-color: rgb(82, 76, 76);
     --right-section: rgb(255, 255, 255);
-
-    --profile-img-border: rgb(255, 255, 255);
+/*---------------------------------- Profile image ----------------------------------*/
+    --profile-img-border: rgb(250, 3, 3);
     --name-color: rgb(255, 255, 255);
     --profile-border-line: white;
     --left-main-title-color: rgb(255, 255, 253);
     --contact-info-ul-li: white;
     --contact-info-ul-li-i: rgb(255, 255, 255);
-    /*Progress-bar*/
+    /*----------------------------------Progressbar----------------------------------*/
     --progress-bar-color: rgb(255,255,255);
     --progress-bar-color-progress: rgb(28, 13, 248);
-    /*Skill-title*/
+    /*----------------------------------Skill-title----------------------------------*/
     --skill-title-color: rgb(255,255,255);
     --right-titles: rgb(0, 0, 0);
     --right-titles-after: rgb(28,3,248);
@@ -73,8 +73,8 @@ body {
 }
 
 .profile img {
-    width: 80%;
-    border-radius: 3%;
+    width: 70%;
+    border-radius: 20%;
     border: 2px solid;
     color: var(--profile-img-border)
 }
