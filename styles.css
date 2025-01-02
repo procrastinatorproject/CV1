@@ -4,7 +4,7 @@
     --body-color: rgb(82, 76, 76);
     --right-section: rgb(255, 255, 255);
 /*---------------------------------- Profile image ----------------------------------*/
-    --profile-img-border: rgb(250, 3, 3);
+    --profile-img-border: rgb(30, 15, 228);
     --name-color: rgb(255, 255, 255);
     --profile-border-line: white;
     --left-main-title-color: rgb(255, 255, 253);
@@ -181,19 +181,19 @@ body {
 }
 
 .ing-progress {
-    width: 90%;
+    width: 95%;
 }
 
 .cat-progress {
-    width: 60%;
+    width: 80%;
 }
 
 .it-progress {
-    width: 40%;
+    width: 60%;
 }
 
 .jp-progress {
-    width: 30%;
+    width: 45%;
 }
 
 .skill-title {
